@@ -48,3 +48,24 @@ Es una variación del ciclo While, aquí también se evalúa una condición pero
 ### 6.3・For
 ## 7・Arrays
 ## 8・Funciones
+## 13. Clases
+Una clase es como un plantilla para crear objetos, es decir los objetos que se crean a partir de la clase van a tener las mismas características.
+Las características se les conoce como:
+- Atributos
+- Métodos
+Ejm: Lo podemos asociar la clase con un molde para hacer galletas. El molde representa la clase por la cual se puede construir o fabricar objetos que en este ejemplo vendrían a hacer las galletas. Y de forma todas las galletas son iguales pero pueden tener decoraciones diferentes, estas decoraciones serían las propiedades o atributos de cada objeto.
+
+Vimos como crear un Constructor de objeto.
+```
+Clase = Contructor (Atributos) + Métodos (Funciones)
+```
+
+### Sintaxis
+Hacemos un proceso de abstracción:
+Si queremos construir el videojuego de Mario Bros.
+1. Tenemos que definir los Objetos: Playr1 y Player2
+2. Definir los Atributos:
+   1. Nombre: Mario y Luigui
+   2. Color sombrero: Rojo y Verde
+5. Definir métodos:
+   1. Saltar(), Correr(), Saludar()
